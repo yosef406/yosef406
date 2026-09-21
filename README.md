@@ -37,7 +37,7 @@ A Raspberry Pi-based prototype for monitoring and controlling a hydroponic growi
 
 **Technologies:** Raspberry Pi, Python, Flask, Socket.IO, WebSockets, pH and nutrient sensors, temperature and humidity sensing, pumps, OpenAI API
 
-[Repository](https://github.com/yosef406/smart-hydroponic-tower) — source code and documentation are being organized for publication.
+
 
 ### Cryptonite Dashboard
 
